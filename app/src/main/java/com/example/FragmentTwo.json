@@ -1,0 +1,6 @@
+{
+  "pathname": "com.example.FragmentOne",
+  "layout": "fragment_one.xml",
+  "enter": "enter_from_left",
+  "exit": "exit_to_right"
+}
